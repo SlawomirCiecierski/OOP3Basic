@@ -19,11 +19,5 @@ public class Squares implements Quadrangles {
     public double calculateField(double aSide, double bSide, double hSide) {
         return 0;
     }
-//    public Squares(double aSide) {
-//        this.aSide = aSide;
-//    }
 
-//    public double calculateField(double aSide) {
-//        return aSide * aSide;
-//    }
 }
